@@ -1,0 +1,21 @@
+{
+  "key.autosell.sell": "Авто-продажа (старт/стоп)",
+  "key.autosell.search": "Найти предмет из руки на AH",
+  "key.autosell.resell": "Переключить AutoResell",
+  "key.autosell.config": "Открыть настройки AutoSell",
+  "category.autosell": "AutoSell",
+  "screen.autosell.title": "AutoSell - Настройки (SpookyTime)",
+  "screen.autosell.command_label": "Команда продажи ({price} {count} {item}):",
+  "screen.autosell.autonext": "Листать AH: %s",
+  "screen.autosell.highlight": "Подсветка AH: %s",
+  "screen.autosell.autoresell": "AutoResell: %s",
+  "screen.autosell.smartrounding": "Округление: %s",
+  "screen.autosell.hud": "HUD: %s",
+  "screen.autosell.add": "Добавить из руки",
+  "screen.autosell.done": "Готово",
+  "msg.autosell.nothing": "AutoSell: в хотбаре нет предметов с ценой.",
+  "msg.autosell.start": "AutoSell: продаю...",
+  "msg.autosell.done": "AutoSell: готово",
+  "msg.autosell.stopped": "AutoSell: остановлено",
+  "key.autosell.fastexp": "Включить FastExp"
+}

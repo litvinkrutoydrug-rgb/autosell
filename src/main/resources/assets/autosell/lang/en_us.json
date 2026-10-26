@@ -1,0 +1,21 @@
+{
+  "key.autosell.sell": "Auto Sell (start/stop)",
+  "key.autosell.search": "Search held item on AH",
+  "key.autosell.resell": "Toggle AutoResell",
+  "key.autosell.config": "Open AutoSell Settings",
+  "category.autosell": "AutoSell",
+  "screen.autosell.title": "AutoSell Settings (SpookyTime)",
+  "screen.autosell.command_label": "Sell Command ({price} {count} {item}):",
+  "screen.autosell.autonext": "AH Auto Next: %s",
+  "screen.autosell.highlight": "AH Highlight: %s",
+  "screen.autosell.autoresell": "AutoResell: %s",
+  "screen.autosell.smartrounding": "Smart Rounding: %s",
+  "screen.autosell.hud": "HUD: %s",
+  "screen.autosell.add": "Add Held Item",
+  "screen.autosell.done": "Done",
+  "msg.autosell.nothing": "AutoSell: No priced items in hotbar.",
+  "msg.autosell.start": "AutoSell: selling...",
+  "msg.autosell.done": "AutoSell: finished",
+  "msg.autosell.stopped": "AutoSell: stopped",
+  "key.autosell.fastexp": "Toggle FastExp"
+}
